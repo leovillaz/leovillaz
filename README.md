@@ -135,8 +135,8 @@ Sou um profissional técnico com perfil de **builder**: gosto de entender proble
 Minha base vem da infraestrutura, suporte e segurança.  
 Minha evolução atual passa por automação, desenvolvimento, IA local e criação de produtos próprios.
 
-> Old school enough to respect the basics.  
-> Curious enough to keep building the next thing. ⚙️🎮
+> Velho o suficiente para respeitar o básico.
+> Curioso o suficiente para continuar construindo a próxima coisa. ⚙️🎮
 
 ---
 
