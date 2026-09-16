@@ -18,6 +18,33 @@
 
 ---
 
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img
+  height="190"
+  src="https://github-readme-stats.vercel.app/api?username=leovillaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  alt="Leandro Vilela GitHub Stats"
+/>
+
+<img
+  height="190"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovillaz&layout=donut&langs_count=8&theme=github_dark&hide_border=true&custom_title=Top%20Languages"
+  alt="Linguagens mais utilizadas nos projetos públicos"
+/>
+
+</div>
+
+<p align="center">
+  <sub>
+    📌 As estatísticas e linguagens são calculadas a partir dos dados que o GitHub e o serviço de estatísticas conseguem acessar publicamente.
+    O gráfico representa a composição de código dos repositórios, não o nível de domínio em cada linguagem.
+  </sub>
+</p>
+
+---
+
 ## 🇧🇷 Apresentação
 
 Profissional de tecnologia com mais de **20 anos de experiência** em suporte técnico, infraestrutura, redes, segurança da informação, automação e desenvolvimento de soluções práticas para ambientes reais de operação.
@@ -135,8 +162,8 @@ Sou um profissional técnico com perfil de **builder**: gosto de entender proble
 Minha base vem da infraestrutura, suporte e segurança.  
 Minha evolução atual passa por automação, desenvolvimento, IA local e criação de produtos próprios.
 
-> Velho o suficiente para respeitar o básico.
-> Curioso o suficiente para continuar construindo a próxima coisa. ⚙️🎮
+> Old school enough to respect the basics.  
+> Curious enough to keep building the next thing. ⚙️🎮
 
 ---
 
