@@ -31,8 +31,7 @@
 
 <p align="center">
   <sub>
-    📌 As estatísticas e linguagens são calculadas a partir dos dados que o GitHub e o serviço de estatísticas conseguem acessar publicamente.
-    O gráfico representa a composição de código dos repositórios, não o nível de domínio em cada linguagem.
+    📌 Estatísticas baseadas nos dados públicos disponíveis. As linguagens representam a composição dos repositórios, não o nível de domínio técnico.
   </sub>
 </p>
 
