@@ -22,17 +22,9 @@
 
 <div align="center">
 
-<img
-  height="190"
-  src="https://github-readme-stats.vercel.app/api?username=leovillaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  alt="Leandro Vilela GitHub Stats"
-/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leovillaz&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=leovillaz&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-<img
-  height="190"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovillaz&layout=donut&langs_count=8&theme=github_dark&hide_border=true&custom_title=Top%20Languages"
-  alt="Linguagens mais utilizadas nos projetos públicos"
-/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leovillaz&layout=donut-vertical&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=leovillaz&layout=donut-vertical&theme=tokyonight)
 
 </div>
 
