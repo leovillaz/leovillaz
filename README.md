@@ -1,18 +1,27 @@
-# Leandro Vilela
-
 <div align="center">
 
-### Systems Analyst | Infrastructure | Automation | Security | Software Development
+# Leandro Vilela
+
+### Systems Analyst · Infrastructure · Automation · Security · Software Development
 
 **Building practical tools, automation workflows, games and real-world software solutions.**
 
-<br>
+<p>
+  <a href="https://www.linkedin.com/in/leovillaz">
+    <img src="https://img.shields.io/badge/LinkedIn-Leandro%20Vilela-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.vilela.pro.br">
+    <img src="https://img.shields.io/badge/Blog-vilela.pro.br-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Blog" />
+  </a>
+</p>
 
-![Infrastructure](https://img.shields.io/badge/Infrastructure-1f6feb?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-8957e5?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-da3633?style=for-the-badge)
-![Development](https://img.shields.io/badge/Development-238636?style=for-the-badge)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-f97316?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Infrastructure-1f6feb?style=for-the-badge" alt="Infrastructure" />
+  <img src="https://img.shields.io/badge/Automation-8957e5?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Security-da3633?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/Development-238636?style=for-the-badge" alt="Development" />
+  <img src="https://img.shields.io/badge/Game%20Dev-f97316?style=for-the-badge" alt="Game Dev" />
+</p>
 
 </div>
 
@@ -22,275 +31,242 @@
 
 <div align="center">
   <a href="https://github.com/leovillaz">
-    <img height="200" src="https://github-stats-extended.vercel.app/api?username=leovillaz&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=leovillaz&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Leandro Vilela GitHub Stats" />
+    <img height="200"
+         src="https://github-stats-extended.vercel.app/api?username=leovillaz&show_icons=true&include_all_commits=true&theme=tokyonight"
+         alt="Leandro Vilela GitHub Stats" />
   </a>
   <a href="https://github.com/leovillaz">
-    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=leovillaz&layout=donut&theme=tokyonight" alt="Leandro Vilela Top Languages" />
+    <img height="195"
+         src="https://github-stats-extended.vercel.app/api/top-langs?username=leovillaz&layout=donut&theme=tokyonight"
+         alt="Leandro Vilela Top Languages" />
   </a>
 </div>
 
 <p align="center">
   <sub>
-    📌 Estatísticas baseadas nos dados públicos disponíveis. As linguagens representam a composição dos repositórios, não o nível de domínio técnico.
+    📌 Dados públicos disponíveis no GitHub · Public GitHub data only.<br>
+    Linguagens representam composição de código, não nível de domínio técnico · Languages reflect code composition, not proficiency.
   </sub>
 </p>
 
 ---
 
-## 🇧🇷 Apresentação
+<details open>
+<summary><strong>🇧🇷 Português</strong></summary>
 
-Profissional de tecnologia com mais de **20 anos de experiência** em suporte técnico, infraestrutura, redes, segurança da informação, automação e desenvolvimento de soluções práticas para ambientes reais de operação.
+<br>
 
-Minha trajetória começou no suporte técnico e evoluiu passando por **NOC, datacenter, administração de servidores, redes, segurança, cloud, automação de processos e desenvolvimento de ferramentas internas**.
+## 👨‍💻 Sobre mim
 
-Ao longo desse caminho, trabalhei com ambientes críticos, suporte corporativo, monitoramento, troubleshooting, documentação técnica e melhoria contínua de processos.
+Sou um profissional de tecnologia com mais de **20 anos de experiência** em suporte técnico, infraestrutura, redes, segurança da informação, automação e desenvolvimento de soluções para ambientes reais de operação.
 
-Atualmente, meu foco está em unir experiência operacional com desenvolvimento de software: criar automações, ferramentas úteis, sistemas fiscais/comerciais, projetos pessoais, estudos com IA local e jogos.
+Minha trajetória passou por **suporte corporativo, NOC, datacenter, administração de servidores, redes, segurança, cloud, monitoramento e automação**, incluindo atuação em ambientes de alta criticidade e projetos ligados à **B3, Telefónica e ao setor financeiro**.
 
-> Menos caos, mais método.  
-> Mas sem perder a diversão no processo. 🎮⚙️
+Hoje concentro grande parte do meu trabalho em algo que sempre fez parte da minha forma de pensar tecnologia: **entender o problema, simplificar o processo e construir uma solução prática**. Isso pode resultar em um script PowerShell, uma ferramenta interna, um sistema fiscal, uma aplicação, um serviço no homelab ou até um jogo.
 
----
+> [!IMPORTANT]
+> **Foco atual:** automação, desenvolvimento de ferramentas, sistemas fiscais/comerciais, IA local e agentes, containers/Docker, infraestrutura, documentação técnica e Game Dev.
 
-## 🧭 Perfil profissional
+### 🧭 Perfil profissional
 
-| Área | Descrição |
+| | |
 |---|---|
-| 🧑‍💻 Perfil | Analista de Sistemas com forte base em infraestrutura, suporte, segurança e automação |
-| 🏗️ Experiência | Mais de 20 anos em ambientes corporativos, críticos e operacionais |
-| ⚙️ Foco atual | Automação, desenvolvimento de ferramentas, sistemas fiscais, IA local e games |
-| 🔍 Estilo de trabalho | Prático, analítico, documentado e orientado à resolução de problemas |
-| 🚀 Objetivo | Transformar problemas recorrentes em soluções padronizadas, úteis e reutilizáveis |
+| 🧑‍💻 **Perfil** | Analista de Sistemas com forte base em infraestrutura, suporte, segurança, automação e desenvolvimento |
+| 🏗️ **Experiência** | +20 anos em ambientes corporativos, críticos e operacionais |
+| 🔎 **Abordagem** | Diagnóstico, testes controlados, documentação e melhoria incremental |
+| ⚙️ **Mentalidade** | Transformar tarefas recorrentes em processos confiáveis e reutilizáveis |
+| 🎯 **Objetivo** | Criar soluções que façam sentido no ambiente real e continuem sustentáveis depois da entrega |
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-### 🏢 Infraestrutura, Segurança e Operações
-
-| Categoria | Tecnologias / Ferramentas |
+| Domínio | Tecnologias / Ferramentas |
 |---|---|
-| 🖥️ Sistemas | Windows Server, Linux, Windows 10/11 |
-| 🗄️ Banco de Dados | SQL Server, HFSQL |
-| 🌐 Redes | LAN, WAN, VPN, SFTP, Cabeamento Estruturado, Fibra Óptica |
-| 🔐 Segurança | Fortigate, IpTables, SIEM, boas práticas de segurança |
-| 📊 Monitoramento | Datadog, Splunk, Elastic, WhatsUp |
-| 🧰 Operação | IIS, Docker, ServiceNow, Movidesk |
-| ☁️ Cloud | Azure, AWS, Cloud privada |
-
-### 💻 Desenvolvimento e Automação
-
-| Categoria | Tecnologias / Ferramentas |
-|---|---|
-| ⚡ Scripts e automação | PowerShell, Batch, rotinas automatizadas |
-| 🌐 Backend / ferramentas | TypeScript, Node.js |
-| 📱 Apps | Dart, Flutter, Firebase |
-| 🎮 Games | Unity, C# |
-| 🧾 Sistemas comerciais/fiscais | WinDev, WLanguage |
-| 🧬 Versionamento | Git, GitHub |
-| 🤖 IA e produtividade | IA local, agentes, RAG, documentação assistida |
+| 🖥️ **Sistemas & Servidores** | `Windows Server` · `Linux` · `IIS` |
+| 🌐 **Infraestrutura & Redes** | `LAN/WAN` · `VPN` · `SFTP` · `Fortigate` · `IpTables` · Cabeamento Estruturado · Fibra Óptica |
+| 🔐 **Segurança & Observabilidade** | `SIEM` · `Splunk` · `Datadog` · `Elastic` · Troubleshooting · Monitoramento |
+| ☁️ **Cloud & Containers** | `Azure` · `AWS` · Cloud privada · `Docker` |
+| 🗄️ **Dados** | `SQL Server` · `HFSQL` · `PostgreSQL` |
+| ⚡ **Automação** | `PowerShell` · `Batch` · scripts e rotinas operacionais |
+| 💻 **Desenvolvimento** | `TypeScript` · `Node.js` · `WinDev/WLanguage` |
+| 📱 **Apps** | `Dart` · `Flutter` · `Firebase` |
+| 🎮 **Game Dev** | `Unity` · `C#` · `Aseprite` |
+| 🧬 **Engenharia & Versionamento** | `Git` · `GitHub` · documentação técnica · workflows |
+| 🤖 **IA aplicada** | IA local · agentes · RAG · evals · ferramentas assistidas por IA |
 
 ---
 
-## 🎯 Áreas de interesse
+## 🚀 Projetos em destaque
 
-| Área | Interesse |
+| Projeto | O que exploro |
 |---|---|
-| ⚙️ Automação | Criação de scripts, ferramentas internas e fluxos repetíveis |
-| 🧾 Sistemas fiscais | NF-e, NFC-e, XML, apuração, conversões e validações |
-| 🏢 Infraestrutura | Servidores, redes, segurança, monitoramento e troubleshooting |
-| 🤖 IA local | Estudos com agentes, skills, RAG e ambientes controlados |
-| 🎮 Game Dev | Projetos de jogos como forma de estudo, portfólio e diversão |
-| 📚 Documentação | Checkpoints, guias técnicos, procedimentos e arquitetura |
-| 🧩 Arquitetura | Organização de projetos reais com foco em manutenção e evolução |
+| 🧭 [**VillaZ Router**](https://github.com/leovillaz/villaz-router) | Router determinístico para triagem e roteamento de prompts, com normalização, scoring e testes de regressão |
+| 📡 [**CCP Monitor SEFAZ**](https://github.com/leovillaz/ccp-monitor-sefaz) | Monitoramento e automação voltados à disponibilidade de serviços fiscais |
+| 🎮 [**MemoryPairs**](https://github.com/leovillaz/MemoryPairs) | Jogo mobile em Unity/C#, usado também como laboratório prático de desenvolvimento |
+| 🧰 [**VillaZ CLI**](https://github.com/leovillaz/villaz-cli) | Ferramentas de linha de comando dentro do ecossistema de projetos VillaZ |
 
----
-
-## 🚧 Projetos e estudos atuais
-
-| Projeto / Tema | Descrição |
-|---|---|
-| 📡 Monitoramento de serviços | Ferramentas para acompanhar disponibilidade e status de serviços externos |
-| 🧾 Sistemas comerciais e fiscais | Rotinas para apuração, leitura de XML, validação fiscal e automação comercial |
-| 🔄 Conversão de dados | Migração, tratamento, normalização e validação de dados entre sistemas |
-| 📱 Aplicações Flutter | Desenvolvimento de apps com arquitetura organizada e integração com Firebase |
-| 🎮 Jogos com Unity | Projetos de estudo e portfólio com C# e lógica de gameplay |
-| 🤖 Laboratórios de IA local | Testes com modelos locais, agentes, documentação e fluxos assistidos por IA |
-| 🧰 Skills e agentes | Criação de metodologia própria para uso de IA em projetos técnicos |
+> [!NOTE]
+> Nem todo projeto em que trabalho é público. Alguns projetos profissionais, experimentais ou em desenvolvimento permanecem privados.
 
 ---
 
 ## 🧠 Meu jeito de trabalhar
 
-```text
-Entender o problema
-        ↓
-Quebrar em partes menores
-        ↓
-Testar hipóteses
-        ↓
-Criar solução prática
-        ↓
-Documentar o processo
-        ↓
-Automatizar sempre que fizer sentido
-```
+<div align="center">
+  <img src="./assets/workflow-ptbr.svg" alt="Fluxo: entender o problema, quebrar em partes menores, testar hipóteses, criar solução prática, documentar e automatizar" width="100%" />
+</div>
 
-| Princípio | Aplicação prática |
+| Princípio | Na prática |
 |---|---|
-| 🔎 Diagnóstico antes da solução | Evitar chute técnico e entender causa raiz |
-| 🧪 Testes controlados | Validar antes de aplicar em ambiente real |
-| 📄 Documentação | Registrar decisões, comandos, riscos e próximos passos |
-| 🔁 Reutilização | Criar scripts, templates e processos reaproveitáveis |
-| 🧯 Reversibilidade | Sempre que possível, manter caminho de volta |
-| 🧱 Evolução incremental | Melhorar aos poucos, sem quebrar o que já funciona |
+| 🔎 **Diagnóstico antes da solução** | Entender causa, contexto e impacto antes de alterar o ambiente |
+| 🧪 **Testes controlados** | Validar hipóteses em etapas pequenas e observáveis |
+| 📄 **Documentação** | Registrar decisões, procedimentos, riscos e próximos passos |
+| 🔁 **Reutilização** | Transformar conhecimento em scripts, templates e processos reaproveitáveis |
+| 🧯 **Reversibilidade** | Preservar rollback e evitar mudanças destrutivas sem necessidade |
+| 🧱 **Evolução incremental** | Melhorar sem quebrar o que já funciona |
+
+---
+
+## 🤝 Soft skills
+
+| Competência | Como aparece no trabalho |
+|---|---|
+| 🧩 **Resolução de problemas** | Decomposição de incidentes complexos em hipóteses verificáveis |
+| 🗣️ **Comunicação técnica** | Tradução de problemas entre usuários, suporte, infraestrutura e desenvolvimento |
+| 📚 **Aprendizado contínuo** | Exploração prática de novas ferramentas sem abandonar fundamentos |
+| 🧭 **Organização** | Checkpoints, documentação, versionamento e rastreabilidade de decisões |
+| 🛠️ **Ownership** | Interesse em resolver a causa e melhorar o processo, não apenas encerrar o chamado |
+| 🤝 **Relacionamento com clientes** | Experiência longa com atendimento corporativo, remoto e presencial |
 
 ---
 
 ## 📌 Em resumo
 
-Sou um profissional técnico com perfil de **builder**: gosto de entender problemas reais, criar soluções úteis, documentar o caminho e transformar conhecimento operacional em ferramentas práticas.
+Minha base vem de **infraestrutura, suporte e segurança**. Minha evolução passa por **automação, desenvolvimento, IA local e construção de ferramentas próprias**.
 
-Minha base vem da infraestrutura, suporte e segurança.  
-Minha evolução atual passa por automação, desenvolvimento, IA local e criação de produtos próprios.
+Gosto de ambientes em que posso investigar, construir, testar e melhorar.
 
-> Old school enough to respect the basics.  
-> Curious enough to keep building the next thing. ⚙️🎮
+> **Menos caos, mais método.**  
+> Mas sem perder a diversão no processo. 🎮⚙️
+
+</details>
 
 ---
+
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
 
 <br>
 
-# English Version
+## 👨‍💻 About me
 
----
+I am a technology professional with over **20 years of experience** in technical support, infrastructure, networking, information security, automation and software solutions for real-world operational environments.
 
-## 🇺🇸 Professional Overview
+My career has taken me through **corporate support, NOC operations, datacenters, server administration, networking, security, cloud, monitoring and automation**, including high-criticality environments and projects connected to **B3, Telefónica and the financial sector**.
 
-Technology professional with over **20 years of experience** in technical support, infrastructure, networking, information security, automation and practical software solutions for real-world operational environments.
+Today, much of my work revolves around something that has always shaped the way I approach technology: **understand the problem, simplify the process and build a practical solution**. That solution may be a PowerShell script, an internal tool, a fiscal system, an application, a homelab service or even a game.
 
-My career started in technical support and evolved through **NOC operations, datacenter infrastructure, server administration, networking, security, cloud environments, process automation and internal tool development**.
+> [!IMPORTANT]
+> **Current focus:** automation, tool development, fiscal/commercial systems, local AI and agents, containers/Docker, infrastructure, technical documentation and Game Dev.
 
-Along the way, I have worked with critical environments, corporate support, monitoring, troubleshooting, technical documentation and continuous process improvement.
+### 🧭 Professional profile
 
-Today, my focus is on combining operational experience with software development: building automations, useful tools, fiscal and commercial systems, personal projects, local AI experiments and games.
-
-> Less chaos, more method.  
-> But always keeping some fun in the process. 🎮⚙️
-
----
-
-## 🧭 Professional profile
-
-| Area | Description |
+| | |
 |---|---|
-| 🧑‍💻 Profile | Systems Analyst with a strong background in infrastructure, support, security and automation |
-| 🏗️ Experience | Over 20 years in corporate, critical and operational environments |
-| ⚙️ Current focus | Automation, tool development, fiscal systems, local AI and games |
-| 🔍 Work style | Practical, analytical, documented and problem-solving oriented |
-| 🚀 Goal | Turn recurring problems into standardized, useful and reusable solutions |
+| 🧑‍💻 **Profile** | Systems Analyst with a strong background in infrastructure, support, security, automation and development |
+| 🏗️ **Experience** | 20+ years in corporate, critical and operational environments |
+| 🔎 **Approach** | Diagnosis, controlled testing, documentation and incremental improvement |
+| ⚙️ **Mindset** | Turn recurring tasks into reliable and reusable processes |
+| 🎯 **Goal** | Build solutions that make sense in real environments and remain sustainable after delivery |
 
 ---
 
 ## 🛠️ Technologies and tools
 
-### 🏢 Infrastructure, Security and Operations
-
-| Category | Technologies / Tools |
+| Domain | Technologies / Tools |
 |---|---|
-| 🖥️ Systems | Windows Server, Linux, Windows 10/11 |
-| 🗄️ Databases | SQL Server, HFSQL |
-| 🌐 Networking | LAN, WAN, VPN, SFTP, Structured Cabling, Fiber Optics |
-| 🔐 Security | Fortigate, IpTables, SIEM, security best practices |
-| 📊 Monitoring | Datadog, Splunk, Elastic, WhatsUp |
-| 🧰 Operations | IIS, Docker, ServiceNow, Movidesk |
-| ☁️ Cloud | Azure, AWS, Private Cloud |
-
-### 💻 Development and Automation
-
-| Category | Technologies / Tools |
-|---|---|
-| ⚡ Scripts and automation | PowerShell, Batch, automated routines |
-| 🌐 Backend / tools | TypeScript, Node.js |
-| 📱 Apps | Dart, Flutter, Firebase |
-| 🎮 Games | Unity, C# |
-| 🧾 Commercial/fiscal systems | WinDev, WLanguage |
-| 🧬 Version control | Git, GitHub |
-| 🤖 AI and productivity | Local AI, agents, RAG, AI-assisted documentation |
+| 🖥️ **Systems & Servers** | `Windows Server` · `Linux` · `IIS` |
+| 🌐 **Infrastructure & Networking** | `LAN/WAN` · `VPN` · `SFTP` · `Fortigate` · `IpTables` · Structured Cabling · Fiber Optics |
+| 🔐 **Security & Observability** | `SIEM` · `Splunk` · `Datadog` · `Elastic` · Troubleshooting · Monitoring |
+| ☁️ **Cloud & Containers** | `Azure` · `AWS` · Private Cloud · `Docker` |
+| 🗄️ **Data** | `SQL Server` · `HFSQL` · `PostgreSQL` |
+| ⚡ **Automation** | `PowerShell` · `Batch` · operational scripts and routines |
+| 💻 **Development** | `TypeScript` · `Node.js` · `WinDev/WLanguage` |
+| 📱 **Apps** | `Dart` · `Flutter` · `Firebase` |
+| 🎮 **Game Dev** | `Unity` · `C#` · `Aseprite` |
+| 🧬 **Engineering & Version Control** | `Git` · `GitHub` · technical documentation · workflows |
+| 🤖 **Applied AI** | Local AI · agents · RAG · evals · AI-assisted tooling |
 
 ---
 
-## 🎯 Areas of interest
+## 🚀 Featured projects
 
-| Area | Interest |
+| Project | What I explore |
 |---|---|
-| ⚙️ Automation | Scripts, internal tools and repeatable workflows |
-| 🧾 Fiscal systems | NF-e, NFC-e, XML, tax calculation, conversion and validation |
-| 🏢 Infrastructure | Servers, networks, security, monitoring and troubleshooting |
-| 🤖 Local AI | Agents, skills, RAG and controlled local environments |
-| 🎮 Game Dev | Game projects for learning, portfolio and fun |
-| 📚 Documentation | Checkpoints, technical guides, procedures and architecture |
-| 🧩 Architecture | Organizing real projects with maintainability and evolution in mind |
+| 🧭 [**VillaZ Router**](https://github.com/leovillaz/villaz-router) | Deterministic prompt triage and routing with normalization, scoring and regression tests |
+| 📡 [**CCP Monitor SEFAZ**](https://github.com/leovillaz/ccp-monitor-sefaz) | Monitoring and automation focused on fiscal-service availability |
+| 🎮 [**MemoryPairs**](https://github.com/leovillaz/MemoryPairs) | Unity/C# mobile game also used as a practical development lab |
+| 🧰 [**VillaZ CLI**](https://github.com/leovillaz/villaz-cli) | Command-line tooling within the VillaZ project ecosystem |
 
----
-
-## 🚧 Current projects and studies
-
-| Project / Topic | Description |
-|---|---|
-| 📡 Service monitoring | Tools to track availability and status of external services |
-| 🧾 Commercial and fiscal systems | XML processing, fiscal validation, tax routines and commercial automation |
-| 🔄 Data conversion | Migration, normalization and validation of data between systems |
-| 📱 Flutter applications | App development with organized architecture and Firebase integration |
-| 🎮 Unity games | Study and portfolio projects using C# and gameplay logic |
-| 🤖 Local AI labs | Experiments with local models, agents, documentation and AI-assisted workflows |
-| 🧰 Skills and agents | Building a personal methodology for using AI in technical projects |
+> [!NOTE]
+> Not every project I work on is public. Some professional, experimental and in-development projects remain private.
 
 ---
 
 ## 🧠 How I work
 
-```text
-Understand the problem
-        ↓
-Break it into smaller parts
-        ↓
-Test hypotheses
-        ↓
-Build a practical solution
-        ↓
-Document the process
-        ↓
-Automate whenever it makes sense
-```
+<div align="center">
+  <img src="./assets/workflow-en.svg" alt="Workflow: understand the problem, break it down, test hypotheses, build a practical solution, document and automate" width="100%" />
+</div>
 
-| Principle | Practical application |
+| Principle | In practice |
 |---|---|
-| 🔎 Diagnosis before solution | Avoid guessing and understand the root cause |
-| 🧪 Controlled testing | Validate before applying to real environments |
-| 📄 Documentation | Register decisions, commands, risks and next steps |
-| 🔁 Reusability | Build scripts, templates and repeatable processes |
-| 🧯 Reversibility | Keep a rollback path whenever possible |
-| 🧱 Incremental evolution | Improve step by step without breaking what already works |
+| 🔎 **Diagnosis before solution** | Understand cause, context and impact before changing the environment |
+| 🧪 **Controlled testing** | Validate hypotheses through small and observable steps |
+| 📄 **Documentation** | Record decisions, procedures, risks and next steps |
+| 🔁 **Reusability** | Turn knowledge into reusable scripts, templates and processes |
+| 🧯 **Reversibility** | Preserve rollback paths and avoid unnecessary destructive changes |
+| 🧱 **Incremental evolution** | Improve systems without breaking what already works |
+
+---
+
+## 🤝 Soft skills
+
+| Skill | How it shows up |
+|---|---|
+| 🧩 **Problem solving** | Breaking complex incidents into testable hypotheses |
+| 🗣️ **Technical communication** | Translating issues across users, support, infrastructure and development teams |
+| 📚 **Continuous learning** | Exploring new tools through hands-on work without abandoning fundamentals |
+| 🧭 **Organization** | Checkpoints, documentation, version control and decision traceability |
+| 🛠️ **Ownership** | Improving root causes and processes instead of only closing tickets |
+| 🤝 **Client-facing experience** | Long-term experience with corporate, remote and on-site support |
 
 ---
 
 ## 📌 In short
 
-I am a technical professional with a **builder mindset**: I like understanding real problems, creating useful solutions, documenting the path and turning operational knowledge into practical tools.
+My foundation comes from **infrastructure, support and security**. My current evolution goes through **automation, software development, local AI and building my own tools**.
 
-My foundation comes from infrastructure, support and security.  
-My current evolution goes through automation, development, local AI and personal product building.
+I enjoy environments where I can investigate, build, test and improve.
 
-> Old school enough to respect the basics.  
+> **Old school enough to respect the basics.**  
 > Curious enough to keep building the next thing. ⚙️🎮
+
+</details>
 
 ---
 
 ## 📫 Contact
 
-| Platform | Link |
-|---|---|
-| GitHub | [github.com/leovillaz](https://github.com/leovillaz) |
-| LinkedIn | [linkedin.com/in/leovillaz](https://www.linkedin.com/in/leovillaz) |
-| Blog | [vilela.pro.br](https://www.vilela.pro.br) |
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-leovillaz-181717?style=for-the-badge&logo=github)](https://github.com/leovillaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Vilela-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leovillaz)
+[![Blog](https://img.shields.io/badge/Blog-vilela.pro.br-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vilela.pro.br)
+
+</div>
+
+<p align="center">
+  <sub>Infrastructure roots · Automation mindset · Builder at heart ⚙️</sub>
+</p>
