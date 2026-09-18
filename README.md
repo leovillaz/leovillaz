@@ -64,8 +64,12 @@ Minha trajetória passou por **suporte corporativo, NOC, datacenter, administra�
 
 Hoje concentro grande parte do meu trabalho em algo que sempre fez parte da minha forma de pensar tecnologia: **entender o problema, simplificar o processo e construir uma solução prática**. Isso pode resultar em um script PowerShell, uma ferramenta interna, um sistema fiscal, uma aplicação, um serviço no homelab ou até um jogo.
 
-> **Foco Atual:**
-> Automação, desenvolvimento de ferramentas, sistemas fiscais/comerciais, IA local e agentes, containers/Docker, infraestrutura, documentação técnica e Game Dev.
+<blockquote>
+  <strong>🎯 Foco atual</strong><br><br>
+  Automação, desenvolvimento de ferramentas, sistemas fiscais/comerciais,
+  IA local e agentes, containers/Docker, infraestrutura,
+  documentação técnica e Game Dev.
+</blockquote>
 
 
 ### 🧭 Perfil profissional
@@ -107,8 +111,11 @@ Hoje concentro grande parte do meu trabalho em algo que sempre fez parte da minh
 | 🎮 [**MemoryPairs**](https://github.com/leovillaz/MemoryPairs) | Jogo mobile em Unity/C#, usado também como laboratório prático de desenvolvimento |
 | 🧰 [**VillaZ CLI**](https://github.com/leovillaz/villaz-cli) | Ferramentas de linha de comando dentro do ecossistema de projetos VillaZ |
 
-> **Nota:**
-> Nem todo projeto em que trabalho é público. Alguns projetos profissionais, experimentais ou em desenvolvimento permanecem privados.
+<blockquote>
+  <strong>🔒 Nota</strong><br><br>
+  Nem todo projeto em que trabalho é público. Alguns projetos profissionais,
+  experimentais ou em desenvolvimento permanecem privados.
+</blockquote>
 
 
 ---
@@ -169,8 +176,12 @@ My career has taken me through **corporate support, NOC operations, datacenters,
 
 Today, much of my work revolves around something that has always shaped the way I approach technology: **understand the problem, simplify the process and build a practical solution**. That solution may be a PowerShell script, an internal tool, a fiscal system, an application, a homelab service or even a game.
 
-> **Current focus:**
-> Automation, tool development, fiscal/commercial systems, local AI and agents, containers/Docker, infrastructure, technical documentation and Game Dev.
+<blockquote>
+  <strong>🎯 Current focus</strong><br><br>
+  Automation, tool development, fiscal/commercial systems,
+  local AI and agents, containers/Docker, infrastructure,
+  technical documentation and Game Dev.
+</blockquote>
 
 
 ### 🧭 Professional profile
@@ -212,8 +223,11 @@ Today, much of my work revolves around something that has always shaped the way 
 | 🎮 [**MemoryPairs**](https://github.com/leovillaz/MemoryPairs) | Unity/C# mobile game also used as a practical development lab |
 | 🧰 [**VillaZ CLI**](https://github.com/leovillaz/villaz-cli) | Command-line tooling within the VillaZ project ecosystem |
 
-> **Note**
-> Not every project I work on is public. Some professional, experimental and in-development projects remain private.
+<blockquote>
+  <strong>🔒 Note</strong><br><br>
+  Not every project I work on is public. Some professional,
+  experimental and in-development projects remain private.
+</blockquote>
 
 ---
 
