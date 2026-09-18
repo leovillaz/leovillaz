@@ -21,11 +21,12 @@
 ## 📊 GitHub Overview
 
 <div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leovillaz&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=leovillaz&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leovillaz&layout=donut-vertical&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=leovillaz&layout=donut-vertical&theme=tokyonight)
-
+  <a href="https://github.com/leovillaz">
+    <img height="200" src="https://github-stats-extended.vercel.app/api?username=leovillaz&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=leovillaz&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Leandro Vilela GitHub Stats" />
+  </a>
+  <a href="https://github.com/leovillaz">
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=leovillaz&layout=donut&theme=tokyonight" alt="Leandro Vilela Top Languages" />
+  </a>
 </div>
 
 <p align="center">
